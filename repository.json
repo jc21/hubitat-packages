@@ -1,0 +1,19 @@
+{
+  "author": "Jamie Curnow",
+  "gitHubUrl": "https://github.com/jc21",
+  "packages": [
+    {
+      "id": "7903d589-53f7-407e-9654-2a486183b412",
+      "name": "AirTouch 5 Drivers",
+      "category": "Control",
+      "location": "https://raw.githubusercontent.com/jc21/hubitat-airtouch5/refs/tags/v1.0.0/packageManifest.json",
+      "description": "Monitoring and controlling your Airtouch 5 AC Controller directly from your home automation platform",
+      "tags": [
+        "Appliances",
+        "Climate Control",
+        "Monitoring",
+        "Temperature & Humidity"
+      ]
+    }
+  ]
+}
