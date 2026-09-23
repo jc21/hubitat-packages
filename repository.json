@@ -17,7 +17,7 @@
     },
     {
       "id": "0903d289-53f7-407a-9654-2a483183b412",
-      "name": "BamBuddy Printers Driver",
+      "name": "BamBuddy/PrintBuddy Printers Driver",
       "category": "Control",
       "location": "https://github.com/jc21/hubitat-bambuddy/releases/latest/download/packageManifest.json",
       "description": "For monitoring and controlling your Bambu 3D printers through BamBuddy directly from your home automation platform",
