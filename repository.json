@@ -6,7 +6,7 @@
       "id": "7903d589-53f7-407e-9654-2a486183b412",
       "name": "AirTouch 5 Drivers",
       "category": "Control",
-      "location": "https://raw.githubusercontent.com/jc21/hubitat-airtouch5/refs/tags/v1.0.0/packageManifest.json",
+      "location": "https://github.com/jc21/hubitat-airtouch5/releases/latest/download/packageManifest.json",
       "description": "Monitoring and controlling your Airtouch 5 AC Controller directly from your home automation platform",
       "tags": [
         "Appliances",
@@ -19,7 +19,7 @@
       "id": "0903d289-53f7-407a-9654-2a483183b412",
       "name": "BamBuddy Printers Driver",
       "category": "Control",
-      "location": "https://raw.githubusercontent.com/jc21/hubitat-bambuddy/refs/tags/v0.0.3/packageManifest.json",
+      "location": "https://github.com/jc21/hubitat-bambuddy/releases/latest/download/packageManifest.json",
       "description": "For monitoring and controlling your Bambu 3D printers through BamBuddy directly from your home automation platform",
       "tags": [
         "Appliances",
