@@ -25,6 +25,19 @@
         "Appliances",
         "Monitoring"
       ]
+    },
+    {
+      "id": "b537464b-4fdf-4e25-84e7-1eef3e1bc0f4",
+      "name": "iStore Heat Pump",
+      "category": "Control",
+      "location": "https://github.com/jc21/hubitat-istore-heat-pump/releases/latest/download/packageManifest.json",
+      "description": "Monitoring and controlling your iStore R290 hot water heat pump via the UNIVERS / iStore cloud directly from your home automation platform",
+      "tags": [
+        "Appliances",
+        "Climate Control",
+        "Monitoring",
+        "Temperature & Humidity"
+      ]
     }
   ]
 }
